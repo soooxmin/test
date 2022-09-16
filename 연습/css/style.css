@@ -34,14 +34,15 @@
     background-color: lightgray;
 }
 .pop-up{
+}
+.pop-up .btn-area{
     padding: 20px 100px;
-    box-sizing: border-box;
 }
 .pop-up .btn{
     position: relative;
+    margin: 0 auto;
     width: 25px;
     height: 20px;
-    background-color: white;
 }
 .pop-up .btn span{
     position: absolute;
@@ -56,8 +57,9 @@
 .pop-up .btn span:nth-child(2){transform: rotate(-45deg);}
 
 .pop-up .content{
-    margin-top: 40px;
+    padding: 40px 100px;
     text-align: center;
+    background-color: white;
 }
 .pop-up .content p{
     font-weight: bold;
