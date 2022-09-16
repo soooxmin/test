@@ -1,0 +1,94 @@
+
+/*noto sans kr폰트 링크*/
+
+
+font-family: 'Noto Sans KR', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+
+
+/*poppins 폰트 링크*/
+
+font-family: 'Poppins', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*inconsolata 폰트 링크*/
+
+
+font-family: 'Inconsolata', monospace;
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+
+/*montserrat*/
+
+font-family: 'Montserrat', sans-serif
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+/*raleway*/
+
+font-family: 'Raleway', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/*awesome font cdn(contents delivery network)*/
+/*가상공간의 라이브러리를 사용하는것 그니까 약간 공유폴더 불러오는 느낌 아닐까..?*/
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+
+
+ttf파일은 익스플로러제외 공용파일이므로 폰트페이스할때 포맷지정안해줘도ㅗ됨
+원래 브라우저별로 포맷지정해줘야함
+
+
+/*roboto*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+font-family: 'Roboto', sans-serif;
+
+
+/* XEION CDN */
+@import url('http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+
+
+/*Monoton*/
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+font-family: 'Monoton', cursive;
+
+
+/*Meow Script-필기체*/
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&display=swap');
+font-family: 'Meow Script', cursive;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
